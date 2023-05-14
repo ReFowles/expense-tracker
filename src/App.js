@@ -30,7 +30,8 @@ function App() {
   ];
 
   const addExpenseHandler = (expense) => {
-
+    // Placeholder
+    console.log(expense);
   };
 
   return (
